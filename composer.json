@@ -1,0 +1,26 @@
+{
+    "name": "niefufeng/express",
+    "description": "支持快递鸟的快递查询",
+    "type": "library",
+    "version": "0.0.1",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "NieFufeng\\Express\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "niefufeng",
+            "email": "niefufeng@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "require-dev": {
+        "laravel/pint": "^1.13"
+    }
+}
