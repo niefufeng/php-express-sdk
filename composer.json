@@ -2,7 +2,7 @@
     "name": "niefufeng/express",
     "description": "支持快递鸟的快递查询",
     "type": "library",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": "MIT",
     "autoload": {
         "psr-4": {
